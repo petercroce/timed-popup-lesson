@@ -11,6 +11,10 @@ function firstPopup() {
 // we call the firstPopup() function in the onload attribute of
 // the <body> tag.
 
+// Here we call the firstPopup() function.
+// When we "call a function" we are running the code inside the curly brackets.
+firstPopup()
+
 // Here we define the timedPopup() function.
 function timedPopup() {
   setTimeout(function() {
@@ -22,7 +26,7 @@ function timedPopup() {
 // In the setTimeout function, timing is denoted in milliseconds,
 // and 3000 milliseconds equals three seconds.
 
-// Here we call the timedPopup() function. 
+// Here we call the timedPopup() function.
 timedPopup();
 
 
