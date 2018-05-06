@@ -1,0 +1,23 @@
+{
+  "name": "timed-popup-lesson",
+  "version": "1.0.0",
+  "description": "This is a lesson on making timed popups from the Code with Pete curriculum.",
+  "main": "scripts.js",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pscroce/timed-popup-lesson.git"
+  },
+  "author": "Peter Croce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pscroce/timed-popup-lesson/issues"
+  },
+  "homepage": "https://github.com/pscroce/timed-popup-lesson#readme"
+}
