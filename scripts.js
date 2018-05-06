@@ -22,7 +22,7 @@ function timedPopup() {
 // In the setTimeout function, timing is denoted in milliseconds,
 // and 3000 milliseconds equals three seconds.
 
-
+// Here we call the timedPopup() function. 
 timedPopup();
 
 
